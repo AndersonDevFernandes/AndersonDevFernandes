@@ -5,7 +5,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonDevFernandes&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonDevFernandes&show_icons=true&theme=onedark)</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonDevFernandes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)</br>
 
 ### Tecnologias que uso no meu dia.
 
