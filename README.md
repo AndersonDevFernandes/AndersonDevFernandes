@@ -5,8 +5,11 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonDevFernandes&show_icons=true&theme=onedark)</br>
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?AndersonDevFernandes=UTILIZADOR&layout=compact&theme=dracula)</br>
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?AndersonDevFernandes-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?AndersonDevFernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ### Tecnologias que uso no meu dia.
