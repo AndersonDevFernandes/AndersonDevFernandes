@@ -6,6 +6,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonDevFernandes&show_icons=true&theme=onedark)</br>
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?AndersonDevFernandes=UTILIZADOR&layout=compact&theme=dracula)</br>
 
 
 ### Tecnologias que uso no meu dia.
