@@ -42,6 +42,7 @@
 </br>
 
 ## IA's. 🧠
+</hr>
 
 <img align="center" alt="chatgpt" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=black">
 <img align="center" alt="githubcopilot" src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=black">
