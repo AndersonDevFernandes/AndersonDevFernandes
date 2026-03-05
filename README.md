@@ -9,11 +9,7 @@
 
 
 
-<div>
-<a href="https://github.com/AndersonDevFernandes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDevFernandes&layout=compact&langs_count=7&theme=dracula"/>
 
-</div>
 
 
 ### Tecnologias que uso no meu dia. 🖥️
