@@ -37,6 +37,9 @@
 <img align="center" alt="premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
 </br>
 
+[![Top Languages](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
 ## IA's. 🧠
 </hr>
 
