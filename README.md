@@ -37,7 +37,11 @@
 <img align="center" alt="premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/AndersonDevFernandes)](https://github.com/AndersonDevFernandes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDevFernandes&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonDevFernandes&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AndersonDevFernandes&theme=tokyonight)](https://git.io/streak-stats)
 ## IA's. 🧠
 </hr>
 
